@@ -841,7 +841,7 @@ html,body{
     }
 
     .homepage h1{
-        margin : 30vw;
+        margin-top : 30vw;
         font-size: 11vw;
         text-align: center;
     }
